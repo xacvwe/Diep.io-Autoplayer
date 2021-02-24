@@ -1,0 +1,5 @@
+This script is on early beta and you might encounter many bugs
+
+
+Discord: Xavee#7951
+let me know some bugs or make a pull request
